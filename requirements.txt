@@ -1,0 +1,5 @@
+Flask
+scikit-learn==1.1.0
+pandas
+numpy
+matplotlib
